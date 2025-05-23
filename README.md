@@ -110,3 +110,12 @@ Example:
 Result:
 
 [![](https://b.lmpify.com/FAQ)](https://www.lmpify.com/httpsuithubcomj-u4l8lj0)
+
+Any shared links that were previously generated are free to be reached without ratelimit. However, to do new prompts, please be aware that, although I aim to keep the free plan as big as possible, lmpify is not a free service, and as of now, amount of free, unauthenticated, prompts are capped at 5 per hour, and restricted to cheaper models such as OpenAI ChatGPT 4.1 mini. After this users are prompted to add a balance to keep going.
+
+## Pricing
+
+- All previously generated results are _cached forever_ and _free for everyone_ without ratelimits
+- New users that didn't deposit $ with Stripe get 5 free prompts per hour. This may change in the future.
+- After depositing $ through Stripe, users pay the model price + markup when executing new prompts.
+- The markup is 50% markup on top of model price to account for free usage, creator benefits (coming soon), and make this tool sustainable.
