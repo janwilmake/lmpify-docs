@@ -64,7 +64,12 @@ curl "https://lmpify.com/httpsuithubcomj-m8tfk00?key=result" -o apply.md && npx 
 
 ## 'Prompt it' buttons
 
-Allowing users to easily prompt things about your open source library or template can really reduce friction for developers to adopt it. You can link from your README, docs, or website to a prompt button using the following code:
+Allowing users to easily prompt things about your open source library or template can really reduce friction for developers to adopt it.
+
+- Point to specific contexts that are useful to use (parts of) your library
+- Show how your project was made
+
+You can link from your README, docs, or website to a prompt button using the following code:
 
 HTML:
 
