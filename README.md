@@ -8,6 +8,22 @@ Launch:
 
 Ask anything about the docs: [![](https://b.lmpify.com)](https://www.lmpify.com/httpsuithubcomj-u4l8lj0)
 
+# Why lmpify?
+
+lmpify offers several advantages over traditional AI assistants like Claude
+
+## Feature Comparison
+
+| Feature              | lmpify                     | Claude                                                  | Why it matters                                                                                              |
+| -------------------- | -------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Startup Speed**    | ✓ Instant (<100ms)         | ✗ Slow                                                  | lmpify is optimised for speed and TTFT. Results are cached.                                                 |
+| **Performance**      | ✓ Snappy & reliable        | ✗ Often slow & buggy                                    | Consistent, responsive experience without frustrating delays or crashes                                     |
+| **URLs as Context**  | ✓ Built-in                 | ✗ Only with MCP                                         | Seamlessly reference external textual files (md, json, etc) without having to first toolcall them.          |
+| **HTML Rendering**   | ✓ Full capability          | ✗ Limited (no scripts)                                  | Complete HTML renders with scripts and full-screen support. Great for prototyping.                          |
+| **Sharing**          | ✓ One-click                | ✗ Multiple steps, buggy                                 | Instantly share prompts and results with a simple URL                                                       |
+| **Token Efficiency** | ✓ Incentivizes edit        | ✗ Designed as chat with history                         | Encourages prompt editing over replies, resulting in less token use and better results with the same model. |
+| **Long Output**      | ✓ Up to limit of model API | ✗ Limits at ±8k output tokens, continue button is buggy | Long outputs can be useful when generating long files.                                                      |
+
 # DOCS
 
 ## URL Context
