@@ -77,7 +77,7 @@ HTML:
 Markdown:
 
 ```md
-[![](https://b.lmpify.com/YOUR_TEXT)](https://www.lmpify.com/httpsuithubcomj-u4l8lj0)
+[![](https://b.lmpify.com/YOUR_TEXT)](https://www.lmpify.com/YOUR_ID)
 ```
 
 Example:
