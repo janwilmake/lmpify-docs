@@ -83,9 +83,9 @@ Markdown:
 Example:
 
 ```md
-[![](https://b.lmpify.com)](https://www.lmpify.com/httpsuithubcomj-u4l8lj0)
+[![](https://b.lmpify.com/FAQ)](https://www.lmpify.com/httpsuithubcomj-u4l8lj0)
 ```
 
 Result:
 
-[![](https://b.lmpify.com)](https://www.lmpify.com/httpsuithubcomj-u4l8lj0)
+[![](https://b.lmpify.com/FAQ)](https://www.lmpify.com/httpsuithubcomj-u4l8lj0)
