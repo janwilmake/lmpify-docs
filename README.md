@@ -19,6 +19,7 @@ Some recommend contexts are:
 - https://xymake.com for X threads
 - https://uithub.com for GitHub context with filters applied
 - https://openapisearch.com for APIs
+- https://arxivmd.org for ArXiv papers
 
 Are you a high-agency product engineer? Join the [Context Building Club](https://contextbuilding.com) to get access to the most advanced and high-agency prompting techniques before everyone else.
 
