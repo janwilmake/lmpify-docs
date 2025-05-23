@@ -1,4 +1,14 @@
-# LMPIFY Docs
+# Let Me Prompt It For You - Fast, Smart Prompting for Devs
+
+Launch:
+
+- https://x.com/janwilmake/status/1924471476305932741
+- https://news.ycombinator.com/item?id=44030556
+- https://www.producthunt.com/posts/let-me-prompt-it-for-you-lmpify-com
+
+Ask anything about the docs: [![](https://b.lmpify.com)](https://www.lmpify.com/httpsuithubcomj-u4l8lj0)
+
+# DOCS
 
 ## URL Context
 
