@@ -61,3 +61,31 @@ Try it yourself (this one will create `cli.js`) in your cwd:
 ```sh
 curl "https://lmpify.com/httpsuithubcomj-m8tfk00?key=result" -o apply.md && npx mdapply ./apply.md
 ```
+
+## 'Prompt it' buttons
+
+Allowing users to easily prompt things about your open source library or template can really reduce friction for developers to adopt it. You can link from your README, docs, or website to a prompt button using the following code:
+
+HTML:
+
+```html
+<a href="https://www.lmpify.com/YOUR_ID" target="_blank"
+  ><img src="https://b.lmpify.com/YOUR_TEXT"
+/></a>
+```
+
+Markdown:
+
+```md
+[![](https://b.lmpify.com/YOUR_TEXT)](https://www.lmpify.com/httpsuithubcomj-u4l8lj0)
+```
+
+Example:
+
+```md
+[![](https://b.lmpify.com)](https://www.lmpify.com/httpsuithubcomj-u4l8lj0)
+```
+
+Result:
+
+[![](https://b.lmpify.com)](https://www.lmpify.com/httpsuithubcomj-u4l8lj0)
