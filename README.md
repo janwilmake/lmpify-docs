@@ -40,4 +40,13 @@ You can get your API key by going to the developer console in your browser, and 
 
 ## `npx mdapply` CLI
 
-You can use [mdapply](https://github.com/janwilmake/mdapply) to apply a response output to your local filesystem. Just run `curl https://lmpify.com/[id]?key=result -o apply.md && npx mdapply ./apply.md`
+> [!IMPORTANT]
+> Beta
+
+You can use [mdapply](https://github.com/janwilmake/mdapply) to apply a response output to your local filesystem. Just run `curl "https://lmpify.com/[id]?key=result" -o apply.md && npx mdapply ./apply.md`
+
+Try it yourself (this one will create `cli.js`) in your cwd:
+
+```sh
+curl "https://lmpify.com/httpsuithubcomj-m8tfk00?key=result" -o apply.md && npx mdapply ./apply.md
+```
