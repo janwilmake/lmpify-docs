@@ -69,9 +69,9 @@ Allowing users to easily prompt things about your open source library or templat
 HTML:
 
 ```html
-<a href="https://www.lmpify.com/YOUR_ID" target="_blank"
-  ><img src="https://b.lmpify.com/YOUR_TEXT"
-/></a>
+<a href="https://www.lmpify.com/YOUR_ID" target="_blank">
+  <img src="https://b.lmpify.com/YOUR_TEXT" />
+</a>
 ```
 
 Markdown:
